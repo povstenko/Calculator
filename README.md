@@ -1,6 +1,8 @@
 # Calculator
-Windows 10 Calculator using Windows Forms
+Windows 10 Calculator using **C#** and **Windows Forms**
 
-Моя попытка реализовать калькулятор windows 10.
-не работают скобки и работа с HEX в разделе "Программист".
-Осторожно! много костылей и не закомментированый код.
+It is my attempt to create *windows 10 calculator*.
+
+Don't work:
+- Brackets
+- HEX in Programmer mode
