@@ -3,6 +3,8 @@ Windows 10 Calculator using **C#** and **Windows Forms**
 
 It is my attempt to create *windows 10 calculator*.
 
+*Caution! many crutches and uncommented code.*
+
 Don't work:
 - Brackets
 - HEX in Programmer mode
